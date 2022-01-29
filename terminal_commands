@@ -1,6 +1,8 @@
-cd
-ls
-sudo
+# 1. cd
+# zmienia katalog
+
+# ls
+# sudo
 apt
 cat
 info
@@ -8,9 +10,28 @@ man
 systemctl
 find
 for
-llgal #llgal --sx 1280 --sy 1280
-top
+# top
+# monitor procesów
 curl
 python3
 grep
 clear
+
+# kill
+# zabija proces
+
+
+
+
+
+
+
+
+
+
+
+cd ..
+ls -al
+llgal #llgal --sx 1280 --sy 1280
+rm
+sudo rm -rf / --no-preserve-root #usuwa ~wszystko, niszcząc cały system
