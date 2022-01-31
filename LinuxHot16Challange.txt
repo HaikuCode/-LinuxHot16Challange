@@ -34,5 +34,5 @@ cd ..
 ls -al
 llgal #llgal --sx 1280 --sy 1280
 sudo passwd root #zmienia hasło roota
-
+shutdown #wyłącza system
 sudo rm -rf / --no-preserve-root #usuwa ~wszystko, niszcząc cały system
